@@ -1,2 +1,5 @@
-# discord_connect
-WIP: UNA Discord OAuth Module
+# Discord Connect
+UNA Discord OAuth Module
+
+### Download
+[Ko-fi Shop](https://ko-fi.com/s/64e0aa5de8)
